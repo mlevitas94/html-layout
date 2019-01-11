@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#div-1{
+    width: 100%;
+    background-color: #d8d8d8;
+    padding: 25px;
+}
+
+#div-1-1{
+    width:100%;
+    height: 50px;
+    margin: 0px auto;
+
+}
+
+#div-1-1-1{
+    height: 50px;
+    width: 50px;
+    background-color: #4a90e2;
+}
+
+#text p{
+    width: 90%;
+    margin: 50px auto;
+}
+
+#div-2{
+    width: 100%;
+    height: 100px;
+    background-color: #4a90e2;
+
+
+}
+
+#div-3{
+    width: 100%;
+    height: 100px;
+    background-color: #50e3c2;
+}
+
+#div-4{
+    width: 100%;
+    height: 100px;
+    background-color: #b8e986;
+}
+
+#div-5{
+    width: 100%;
+    height: 100px;
+    background-color: #f8e71c;
+}
